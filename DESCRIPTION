@@ -7,14 +7,5 @@ Maintainer: Beth Signal <bethany.signal@uts.edu.au>
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 6.1.1
-Depends:
-  R(>= 3.5)
-Imports:
-    stringr,
-RColorBrewer,
-httr,
-rsvg,
-reshape2,
-plyr,
-ggplot2,
-ggforce
+Depends: R(>= 3.5)
+Imports: stringr,RColorBrewer,httr,rsvg,reshape2,plyr,ggplot2,ggforce
