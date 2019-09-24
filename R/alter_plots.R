@@ -49,7 +49,6 @@ find_layer_locs = function(g_splits){
 #' @return pathway map (svg formatted text) with colored paths on top
 #' @keywords internal
 #' @import stringr
-#' @importFrom spatialEco insert.values
 #' @author Beth Signal
 colour_on_top = function(svg_text, ipath_data){
   g_splits = unlist(stringr::str_split(svg_text, "<g>"))
