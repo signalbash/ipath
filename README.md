@@ -28,7 +28,7 @@ COMING SOON.
 
 ipath is still undergoing development and documentation.
 If you would like to contribute, please submit a pull request!
-If you have any suggestions for features, please contact Beth Signal (bethany.signal@uts.edu.au).
+If you have any suggestions for features, please contact Beth Signal (beth.signal@gmail.com).
 
 
 
